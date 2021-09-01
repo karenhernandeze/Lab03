@@ -1,0 +1,5 @@
+{"properties": [{
+  "name": "commentsEndpoint",
+  "type": "java.lang.String",
+  "description": "REST Service to get the Comments"
+}]}
